@@ -3,8 +3,10 @@ Patient's Permanent Record Management System
 
 -------------
 ## Demo
-There is a demo version live [here](http://atdebjoy.com/others/pprms)         
-username: user
+
+There is a demo version live [here](http://atdebjoy.com/others/pprms)
+
+username: user              
 pass: 2468abcd
 ----------
 ## Installation
