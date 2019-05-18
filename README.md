@@ -5,9 +5,8 @@ Patient's Permanent Record Management System
 ## Demo
 
 There is a demo version live [here](http://atdebjoy.com/others/pprms)
-
-username: user              
-pass: 2468abcd
+ username: user              
+ pass: 2468abcd
 ----------
 ## Installation
 - Copy the contents of MAIN folder to your **html_folder** or **Root** folder of the server 
